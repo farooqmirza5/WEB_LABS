@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: left;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 40px;
+    color: #000;
+}
+a:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
